@@ -1,0 +1,13 @@
+.env
+data/market_cache.db
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.model
+*.pkl
+.venv/
+venv/
